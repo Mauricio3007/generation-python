@@ -1,0 +1,9 @@
+lista = []
+
+for i in range(3):
+    lista.append(input("Digite o item de mercado: "))
+    
+    
+
+
+print(lista)
